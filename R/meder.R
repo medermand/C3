@@ -1,5 +1,5 @@
 meder <- function(number){
-  print(number * number)
+    return (number*number)
 }
 
-meder(5)
+
