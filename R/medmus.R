@@ -24,3 +24,7 @@ rjs<-function(arg){
   
   return(file$salary[qe])
 }
+
+getName<-function(name){
+  return(name)
+}
