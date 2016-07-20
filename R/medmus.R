@@ -1,4 +1,6 @@
 rm(list=ls())
+library("htmlwidgets")
+library("devtools")
 
 rjs<-function(arg){
   
