@@ -1,7 +1,7 @@
 
 
 medmus<-function(){
-  print("AA:SDJD")
+  print("MEDER HELLO")
 }
 
 
