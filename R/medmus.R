@@ -17,6 +17,5 @@ medmus<-function(arg){
   q4<-which(file$JOB.FAMILY.CODE==job.sfam)
 
   qe<-intersect(intersect(q1,q2),intersect(q3,q4))
-
   return(file$salary[qe])
 }
