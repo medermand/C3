@@ -1,5 +1,3 @@
-
-
 medmus<-function(arg){
 return(arg)
  # a<-strsplit(arg, "-")
@@ -23,4 +21,5 @@ return(arg)
  #  return(file$salary[qe])
 }
 
+medmus("HR-HRA-16- FMCG")
 
