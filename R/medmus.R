@@ -1,10 +1,7 @@
 
 
-medmus<-function(arg){
-
-
-
-  return(arg)
+medmus<-function(){
+  print("Meder")
 }
 
 
