@@ -1,7 +1,8 @@
 
 
 medmus<-function(){
-  print("MEDER HELLO")
+
+  return("MEDER HELLO")
 }
 
 
